@@ -3,11 +3,11 @@
 
 # Authentication
 
-| Função        | Método | Endpoint       |           
+| Function        | Method | Endpoint       |           
 | --------------| ------ | -------------- |
 | **getToken**     | POST   | `api/auth`    |
 
-| Campo               | Tipo                         |
+| Field               | Type                         |
 | --------------------| ---------------------------- |
 | **company_access**     | string(required)          |
 
